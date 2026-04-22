@@ -1,16 +1,16 @@
-No.,Birth Day,Birth Month,Birth Year
-17,17,October,1994
-18,18,June,1987
-22,1,April,1995
-23,4,August,1993
-33,11,January,1990
-34,4,October,1988
-38,21,February,1994
-51,26,September,1989
-58,3,June,1998
-61,28,August,1996
-63,8,September,1990
-79,3,May,1999
-85,21,November,1998
-88,22,February,1999
-95,17,February,1988
+No.,Birth Day,Birth Month,Birth Year,Birth Quarter
+17,17,October,1994,Q1
+18,18,June,1987,Q4
+22,1,April,1995,Q3
+23,4,August,1993,Q4
+33,11,January,1990,Q2
+34,4,October,1988,Q1
+38,21,February,1994,Q2
+51,26,September,1989,Q1
+58,3,June,1998,Q4
+61,28,August,1996,Q4
+63,8,September,1990,Q1
+79,3,May,1999,Q3
+85,21,November,1998,Q1
+88,22,February,1999,Q2
+95,17,February,1988,Q2

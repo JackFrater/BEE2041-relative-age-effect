@@ -1,37 +1,37 @@
-Player,Birth Day,Birth Month,Birth Year
-Theo Dan,26,December,2000
-Jamie George,20,October,1990
-Jack Walker,6,May,1996
-Dan Cole,9,May,1987
-Ellis Genge (vc),16,February,1995
-Joe Marler,7,July,1990
-Bevan Rodd,26,August,2000
-Kyle Sinckler,30,March,1993
-Will Stuart,12,July,1996
-Ollie Chessum,6,September,2000
-Maro Itoje,28,October,1994
-Courtney Lawes (vc),23,February,1989
-George Martin,18,June,2001
-David Ribbans,29,August,1995
-Tom Curry,15,June,1998
-Ben Earl,7,January,1998
-Lewis Ludlam,8,December,1995
-Sam Underhill 3,22,July,1996
-Jack Willis 3,24,December,1996
-Billy Vunipola,3,November,1992
-Danny Care,2,January,1987
-Alex Mitchell 1,25,May,1997
-Jack van Poortvliet 1,15,May,2001
-Ben Youngs,5,September,1989
-Owen Farrell (c),24,September,1991
-George Ford,16,March,1993
-Marcus Smith,14,February,1999
-Elliot Daly,8,October,1992
-Ollie Lawrence,18,September,1999
-Joe Marchant,16,July,1996
-Manu Tuilagi,18,May,1991
-Max Malins,7,January,1997
-Jonny May 2,1,April,1990
-Anthony Watson 2,26,February,1994
-Henry Arundell,8,November,2002
-Freddie Steward,5,December,2000
+Player,Birth Day,Birth Month,Birth Year,Birth Quarter
+Theo Dan,26,December,2000,Q2
+Jamie George,20,October,1990,Q1
+Jack Walker,6,May,1996,Q3
+Dan Cole,9,May,1987,Q3
+Ellis Genge (vc),16,February,1995,Q2
+Joe Marler,7,July,1990,Q4
+Bevan Rodd,26,August,2000,Q4
+Kyle Sinckler,30,March,1993,Q3
+Will Stuart,12,July,1996,Q4
+Ollie Chessum,6,September,2000,Q1
+Maro Itoje,28,October,1994,Q1
+Courtney Lawes (vc),23,February,1989,Q2
+George Martin,18,June,2001,Q4
+David Ribbans,29,August,1995,Q4
+Tom Curry,15,June,1998,Q4
+Ben Earl,7,January,1998,Q2
+Lewis Ludlam,8,December,1995,Q2
+Sam Underhill 3,22,July,1996,Q4
+Jack Willis 3,24,December,1996,Q2
+Billy Vunipola,3,November,1992,Q1
+Danny Care,2,January,1987,Q2
+Alex Mitchell 1,25,May,1997,Q3
+Jack van Poortvliet 1,15,May,2001,Q3
+Ben Youngs,5,September,1989,Q1
+Owen Farrell (c),24,September,1991,Q1
+George Ford,16,March,1993,Q3
+Marcus Smith,14,February,1999,Q2
+Elliot Daly,8,October,1992,Q1
+Ollie Lawrence,18,September,1999,Q1
+Joe Marchant,16,July,1996,Q4
+Manu Tuilagi,18,May,1991,Q3
+Max Malins,7,January,1997,Q2
+Jonny May 2,1,April,1990,Q3
+Anthony Watson 2,26,February,1994,Q2
+Henry Arundell,8,November,2002,Q1
+Freddie Steward,5,December,2000,Q2
