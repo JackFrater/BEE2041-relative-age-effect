@@ -20,7 +20,7 @@ This study compares South Africa (January 1st cutoff) and England (Spetember 1st
      - Visualisations: `seaborn`/`matplotlib` (Kernel Density Estimation(KDE) visualisations)
 
 ## Project Structure
-
+```text
 ├── data/
 │   ├── raw/
 │   └── clean/
@@ -32,6 +32,7 @@ This study compares South Africa (January 1st cutoff) and England (Spetember 1st
 ├── blog.ipynb
 ├── README.md   
 └── requirements.txt
+``` 
 
 ## Limitations
 - Small sample size (N=103)
